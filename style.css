@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin:0;
+  font-family: Verdana, sans-serif
+}
+
+.nav-bar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.nav-bar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  margin: 5%;
+}
+
+.nav-bar a:hover {
+  background: #c0dfa0;
+  color: black;
+}
+
+#header-img {
+  width: 320px;
+  float: left;
+  margin: 5%;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 15%;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+
+#video {
+  max-width: 560px
+  width: 100%;
+}
+
+#hero {
+
+}
+
+.container {
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+
