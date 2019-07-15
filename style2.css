@@ -39,5 +39,16 @@ body {
 }
 
 #nav-bar {
-  
+
 }
+
+#about {
+  border: 2px solid black;
+  width: auto;
+  height: 100px;
+  margin-top: 209;
+}
+
+
+
+
