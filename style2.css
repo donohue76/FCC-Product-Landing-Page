@@ -49,6 +49,8 @@ body {
   margin-top: 209;
 }
 
-
+.flex-container {
+  display: flex;
+}
 
 
